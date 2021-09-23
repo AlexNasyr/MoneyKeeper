@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyKeeper", "MoneyKeeper\MoneyKeeper.csproj", "{7DA7E669-9333-44DB-AF41-CD8D0F26793C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKeeper.Tests", "MKeeper.Tests\MKeeper.Tests.csproj", "{12474B91-0D80-4CB8-944D-0BDA90CA4984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA7E669-9333-44DB-AF41-CD8D0F26793C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA7E669-9333-44DB-AF41-CD8D0F26793C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA7E669-9333-44DB-AF41-CD8D0F26793C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA7E669-9333-44DB-AF41-CD8D0F26793C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12474B91-0D80-4CB8-944D-0BDA90CA4984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12474B91-0D80-4CB8-944D-0BDA90CA4984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12474B91-0D80-4CB8-944D-0BDA90CA4984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12474B91-0D80-4CB8-944D-0BDA90CA4984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33EFA2C5-99F4-4C8A-9547-79A8A13521A6}
+	EndGlobalSection
+EndGlobal
